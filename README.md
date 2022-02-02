@@ -9,4 +9,4 @@ Make the webpage more responsive by adding and bootstrap functionality to the pa
 ## Creator
 Made with ❤️ by Philip
 
-### ©️2022 Run Buddy, Inc 
+### ©️2022 Bootstrap, Inc 
