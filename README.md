@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# BootStrap5, Inc
 
 ## Purpose
 Make the webpage more responsive by adding and bootstrap functionality to the page.
